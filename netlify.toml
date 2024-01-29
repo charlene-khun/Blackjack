@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Blackjack.html"
+status = 200
